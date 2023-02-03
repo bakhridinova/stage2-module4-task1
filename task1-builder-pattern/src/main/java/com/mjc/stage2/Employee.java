@@ -80,8 +80,8 @@ public class Employee {
             return this;
         }
 
-        public EmployeeBuilder setLastname(String lastname) {
-            employee.lastName = lastname;
+        public EmployeeBuilder setLastName(String lastName) {
+            employee.lastName = lastName;
             return this;
         }
 
