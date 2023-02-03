@@ -97,8 +97,8 @@ public class Employee {
         public EmployeeBuilder setEmail(String email) {
             employee.email = email;
             return this;
-        } public EmployeeBuilder setCardNumber(String cardNumber) {
-            employee.carNumber = cardNumber;
+        } public EmployeeBuilder setCarNumber(String carNumber) {
+            employee.carNumber = carNumber;
             return this;
         }
 
